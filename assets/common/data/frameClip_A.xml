@@ -1,0 +1,5 @@
+<animation id="timer" frameRate = "8">
+	
+	<clip id="second" frameRate="1" data=" 1 - 5   "/>
+	
+</animation>
